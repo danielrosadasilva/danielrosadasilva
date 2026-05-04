@@ -51,28 +51,30 @@ Git, Azure DevOps, Docker
 **Outros conhecimentos**  
 APIs REST, arquitetura multi-tenant, dashboards, análise de dados, suporte técnico, manutenção de computadores.
 
-<table align="left">
-  <tr>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/><br/>C#</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/><br/>.NET</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/>React</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JS</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TS</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><br/>Postgres</td>
-    <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br/>Docker</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>HTML</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br/>Node</td>
-    <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
-  </tr>
-</table>
-<p>
-📊 Estatísticas do GitHub
-</p>
+<section>
+  <table align="left">
+    <tr>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/><br/>C#</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/><br/>.NET</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/>React</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>JS</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/>TS</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><br/>Postgres</td>
+      <td align="center" width="60"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br/>Git</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/><br/>Docker</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/>HTML</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><br/>Node</td>
+      <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
+    </tr>
+  </table>
+</section>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielrosadasilva" alt="danielrosadasilva" />
-</p>
+<section>
+  📊 Estatísticas do GitHub
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielrosadasilva" alt="danielrosadasilva" />
+  </p>
+</section>
 
 📫 Como me encontrar
 
