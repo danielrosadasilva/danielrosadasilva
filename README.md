@@ -66,7 +66,9 @@ APIs REST, arquitetura multi-tenant, dashboards, análise de dados, suporte téc
     <td align="center" width="60"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
   </tr>
 </table>
+<p>
 📊 Estatísticas do GitHub
+</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielrosadasilva" alt="danielrosadasilva" />
