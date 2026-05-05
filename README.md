@@ -70,8 +70,8 @@ APIs REST, arquitetura multi-tenant, dashboards, análise de dados, suporte téc
 </section>
 
 <section>
-  📊 Estatísticas do GitHub
   <p>
+  📊 Estatísticas do GitHub
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielrosadasilva" alt="danielrosadasilva" />
   </p>
 </section>
